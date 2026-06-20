@@ -217,16 +217,18 @@ Title:
 
 ---
 
-## Authors
+## 👥 Authors & Roles
 
-- Sreenidhi S (UG Scholar)
-- R.M. Tharsanee (Assistant Professor)
+* **Sreenidhi S**
+  * *Undergraduate Scholar, Department of Artificial Intelligence and Data Science, Kumaraguru College of Technology*
+  * **Core Implementation:** Conceptualized the system pipeline, engineered data preprocessing, implemented SMOTE class balancing, developed and optimized the Stacked Ensemble architecture, executed the SHAP explainability analysis, and drafted the manuscript.
+* **Prof. R.M. Tharsanee**
+  * *Assistant Professor, Department of Artificial Intelligence and Data Science, Kumaraguru College of Technology*
+  * **Project Guidance:** Provided structural research methodology guidance, academic supervision, project review, and editorial refinements for the SCITEPRESS submission.
 
-Department of Artificial Intelligence and Data Science
-
-Kumaraguru College of Technology, Coimbatore, India
-
----
+## 📝 Publication & Project Status
+* **Submission Status:** Successfully submitted, copyrights signed, and currently under peer review at **SCITEPRESS Digital Library** (2026).
+* **Official Document:** The full peer-reviewed manuscript text is available in this repository as `Explainable_Stacked_Ensemble_Fetal_Classification.pdf`.
 
 ## Future Work
 
